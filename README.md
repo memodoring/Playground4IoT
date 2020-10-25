@@ -105,11 +105,13 @@ All done with ESP32 support for Arduino IDE:
 
 ![tutorial image](/img/07.png)
 
-7) Now it's time to find your USB port, don't plug your board in your computer and check which ports you have on the Tools -> Port menu:
+7) Before youplug your board in. Let's find your USB port, check which ports you can see in the Tools -> Port menu:
 
 ![tutorial image](/img/08.png)
 
-8) Now plug your Playground4IoT and check this menu again, you should see something new like here that COM7 is the choosen port:
+8) Now plug your Playground4IoT and **turn it on** using the power button.
+
+9) Check the port menu again, you should see a new one. For example COM7 is the choosen port in the screenshot:
 
 ![tutorial image](/img/09.png)
 
